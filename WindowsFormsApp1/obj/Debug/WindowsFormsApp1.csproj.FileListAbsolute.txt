@@ -1,0 +1,40 @@
+C:\Users\HECTOR\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HECTOR\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HECTOR\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HECTOR\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\HECTOR\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HECTOR\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HECTOR\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\HECTOR\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HECTOR\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HECTOR\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Trabajos del tec\Graficacion\NO.15321242 Lorenzo Rodriguez Hector\Unidad 2\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Trabajos del tec\Graficacion\NO.15321242 Lorenzo Rodriguez Hector\Unidad 2\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Trabajos del tec\Graficacion\NO.15321242 Lorenzo Rodriguez Hector\Unidad 2\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Trabajos del tec\Graficacion\NO.15321242 Lorenzo Rodriguez Hector\Unidad 2\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Trabajos del tec\Graficacion\NO.15321242 Lorenzo Rodriguez Hector\Unidad 2\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Trabajos del tec\Graficacion\NO.15321242 Lorenzo Rodriguez Hector\Unidad 2\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Trabajos del tec\Graficacion\NO.15321242 Lorenzo Rodriguez Hector\Unidad 2\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Trabajos del tec\Graficacion\NO.15321242 Lorenzo Rodriguez Hector\Unidad 2\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Trabajos del tec\Graficacion\NO.15321242 Lorenzo Rodriguez Hector\Unidad 2\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Trabajos del tec\Graficacion\NO.15321242 Lorenzo Rodriguez Hector\Unidad 2\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HECTOR\Desktop\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HECTOR\Desktop\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HECTOR\Desktop\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HECTOR\Desktop\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\HECTOR\Desktop\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HECTOR\Desktop\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HECTOR\Desktop\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\HECTOR\Desktop\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HECTOR\Desktop\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HECTOR\Desktop\Curva Bezier\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

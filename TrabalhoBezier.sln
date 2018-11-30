@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhoBezier", "WindowsFormsApp1\TrabalhoBezier.csproj", "{EB15A819-C9FD-4D07-93AF-6560164671EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB15A819-C9FD-4D07-93AF-6560164671EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB15A819-C9FD-4D07-93AF-6560164671EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB15A819-C9FD-4D07-93AF-6560164671EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB15A819-C9FD-4D07-93AF-6560164671EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1B8A787-649D-47F9-A51A-D34226F9A178}
+	EndGlobalSection
+EndGlobal

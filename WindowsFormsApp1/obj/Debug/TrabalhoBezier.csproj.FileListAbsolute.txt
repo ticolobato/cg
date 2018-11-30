@@ -1,0 +1,20 @@
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\TrabalhoCGBezier.Properties.Resources.resources
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\TrabalhoBezier.csproj.GenerateResource.cache
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\TrabalhoBezier.csproj.CoreCompileInputs.cache
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\bin\Debug\Trabalho CG Bezier.exe.config
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\bin\Debug\Trabalho CG Bezier.exe
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\bin\Debug\Trabalho CG Bezier.pdb
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\Trabalho CG Bezier.exe
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\Trabalho CG Bezier.pdb
+C:\Users\ticol\Documents\ftc\WindowsFormsApp1\obj\Debug\TrabalhoBezier.csprojAssemblyReference.cache
+C:\Users\y038480\Documents\PUC\WindowsFormsApp1\bin\Debug\Trabalho CG Bezier.exe.config
+C:\Users\y038480\Documents\PUC\WindowsFormsApp1\bin\Debug\Trabalho CG Bezier.exe
+C:\Users\y038480\Documents\PUC\WindowsFormsApp1\bin\Debug\Trabalho CG Bezier.pdb
+C:\Users\y038480\Documents\PUC\WindowsFormsApp1\obj\Debug\TrabalhoBezier.csprojAssemblyReference.cache
+C:\Users\y038480\Documents\PUC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\y038480\Documents\PUC\WindowsFormsApp1\obj\Debug\TrabalhoCGBezier.Properties.Resources.resources
+C:\Users\y038480\Documents\PUC\WindowsFormsApp1\obj\Debug\TrabalhoBezier.csproj.GenerateResource.cache
+C:\Users\y038480\Documents\PUC\WindowsFormsApp1\obj\Debug\TrabalhoBezier.csproj.CoreCompileInputs.cache
+C:\Users\y038480\Documents\PUC\WindowsFormsApp1\obj\Debug\Trabalho CG Bezier.exe
+C:\Users\y038480\Documents\PUC\WindowsFormsApp1\obj\Debug\Trabalho CG Bezier.pdb
